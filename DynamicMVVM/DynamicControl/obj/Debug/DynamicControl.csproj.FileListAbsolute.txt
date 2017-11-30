@@ -1,0 +1,12 @@
+E:\TestProject\DynamicMVVM\DynamicControl\bin\Debug\DynamicControl.dll
+E:\TestProject\DynamicMVVM\DynamicControl\bin\Debug\DynamicControl.pdb
+E:\TestProject\DynamicMVVM\DynamicControl\bin\Debug\DynamicDataDisplay.dll
+E:\TestProject\DynamicMVVM\DynamicControl\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\TestProject\DynamicMVVM\DynamicControl\obj\Debug\DynamicControl_MarkupCompile.cache
+E:\TestProject\DynamicMVVM\DynamicControl\obj\Debug\DynamicControl_MarkupCompile.lref
+E:\TestProject\DynamicMVVM\DynamicControl\obj\Debug\Themes\Generic.baml
+E:\TestProject\DynamicMVVM\DynamicControl\obj\Debug\DynamicControl.g.resources
+E:\TestProject\DynamicMVVM\DynamicControl\obj\Debug\Dynamic.Control.Properties.Resources.resources
+E:\TestProject\DynamicMVVM\DynamicControl\obj\Debug\DynamicControl.csproj.GenerateResource.Cache
+E:\TestProject\DynamicMVVM\DynamicControl\obj\Debug\DynamicControl.dll
+E:\TestProject\DynamicMVVM\DynamicControl\obj\Debug\DynamicControl.pdb

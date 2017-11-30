@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestWindow", "TestWindow\TestWindow.csproj", "{9F6BA0C0-383E-4354-9EA1-4F3D8AC4EFDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicControl", "DynamicControl\DynamicControl.csproj", "{0F2EA9C1-3CBC-4050-B469-0974D315B585}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F6BA0C0-383E-4354-9EA1-4F3D8AC4EFDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F6BA0C0-383E-4354-9EA1-4F3D8AC4EFDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F6BA0C0-383E-4354-9EA1-4F3D8AC4EFDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F6BA0C0-383E-4354-9EA1-4F3D8AC4EFDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F2EA9C1-3CBC-4050-B469-0974D315B585}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F2EA9C1-3CBC-4050-B469-0974D315B585}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F2EA9C1-3CBC-4050-B469-0974D315B585}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F2EA9C1-3CBC-4050-B469-0974D315B585}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

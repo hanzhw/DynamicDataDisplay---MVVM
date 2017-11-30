@@ -1,0 +1,17 @@
+E:\TestProject\DynamicMVVM\TestWindow\obj\Debug\TestWindow.csprojResolveAssemblyReference.cache
+E:\TestProject\DynamicMVVM\TestWindow\obj\Debug\App.g.cs
+E:\TestProject\DynamicMVVM\TestWindow\obj\Debug\TestWindow_Content.g.cs
+E:\TestProject\DynamicMVVM\TestWindow\obj\Debug\TestWindow_MarkupCompile.cache
+E:\TestProject\DynamicMVVM\TestWindow\bin\Debug\TestWindow.exe
+E:\TestProject\DynamicMVVM\TestWindow\bin\Debug\TestWindow.pdb
+E:\TestProject\DynamicMVVM\TestWindow\bin\Debug\DynamicControl.dll
+E:\TestProject\DynamicMVVM\TestWindow\bin\Debug\DynamicDataDisplay.dll
+E:\TestProject\DynamicMVVM\TestWindow\bin\Debug\DynamicControl.pdb
+E:\TestProject\DynamicMVVM\TestWindow\obj\Debug\MainWindow.g.cs
+E:\TestProject\DynamicMVVM\TestWindow\obj\Debug\TestWindow_MarkupCompile.lref
+E:\TestProject\DynamicMVVM\TestWindow\obj\Debug\MainWindow.baml
+E:\TestProject\DynamicMVVM\TestWindow\obj\Debug\TestWindow.g.resources
+E:\TestProject\DynamicMVVM\TestWindow\obj\Debug\TestWindow.Properties.Resources.resources
+E:\TestProject\DynamicMVVM\TestWindow\obj\Debug\TestWindow.csproj.GenerateResource.Cache
+E:\TestProject\DynamicMVVM\TestWindow\obj\Debug\TestWindow.exe
+E:\TestProject\DynamicMVVM\TestWindow\obj\Debug\TestWindow.pdb
